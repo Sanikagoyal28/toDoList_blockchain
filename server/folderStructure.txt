@@ -1,0 +1,2 @@
+server : smart contract related work
+all contracts: server > contracts > yourcontract.sol
